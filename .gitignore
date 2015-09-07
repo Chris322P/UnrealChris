@@ -1,6 +1,8 @@
 # Builds
-Build/*
-
+Chris/Build/*
 
 # Saved
-Saved/*
+Chris/Saved/*
+
+# CachedAssetRegistry
+Chris/Intermediate/CachedAssetRegistry.bin
