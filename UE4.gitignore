@@ -1,0 +1,8 @@
+# Builds
+Build/*
+
+
+# Saved
+Saved/*
+# Don't ignore Config files in Saved
+#!Saved/Config/*
